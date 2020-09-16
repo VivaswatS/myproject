@@ -23,6 +23,6 @@ ggplot(teeth,aes(x=supp,y=len,fill=factor(dose))) + geom_boxplot() + theme_bw()
 
 ```{r permute}
 teeth %>% filter(supp=="OJ") %>% summarize(mean(len)) - teeth %>% filter(supp=="VC") %>% summarize(mean(len))
-teeth %>% sample_frac(size=1) 
+teeth %>% sample_frac(size=1)
 ```
 
