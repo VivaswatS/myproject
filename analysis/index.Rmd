@@ -10,6 +10,6 @@ editor_options:
 
 Welcome to my research website.
 
-Take a look at my friend's website: [https://blwang3.github.io/ReproductibilityBWang/](https://blwang3.github.io/ReproductibilityBWang/)
+Take a look at my friend's website: [https://blwang3.github.io/ReproducibilityBWang/](https://blwang3.github.io/ReproducibilityBWang/)
 
 * [Teeth growth analysis](teeth.html)
